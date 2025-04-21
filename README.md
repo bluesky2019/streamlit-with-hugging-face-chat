@@ -14,7 +14,6 @@ short_description: Aplicação Simples para Testar Hugging Face Chat com Streaml
 
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 Funcionalidades
 Chat interativo com um modelo DialoGPT-medium
