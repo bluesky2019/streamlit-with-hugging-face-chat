@@ -16,6 +16,26 @@ short_description: Aplicação Simples para Testar Hugging Face Chat com Streaml
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+Funcionalidades
+Chat interativo com um modelo DialoGPT-medium
+
+Manutenção do histórico de conversa
+
+Botão para limpar a conversa
+
+Interface amigável com mensagens estilo chat
+
+Personalização
+Você pode facilmente:
+
+Trocar o modelo por outro do Hugging Face alterando microsoft/DialoGPT-medium
+
+Ajustar os parâmetros de geração (temperature, top_p, etc.)
+
+Modificar o estilo da interface alterando o código Streamlit
+
+Esta aplicação é bem simples mas demonstra a integração básica entre Hugging Face e Streamlit.
+
 Link da aplicação: https://huggingface.co/spaces/bluesky2019/streamlit-with-hugging-face-chat
 
 ## 🔗 Links
